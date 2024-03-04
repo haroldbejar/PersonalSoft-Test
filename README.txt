@@ -1,5 +1,7 @@
 --------  Instructivo Prueba Miles Car Rental ----------
 
+Folder: MilesCarRentalSln
+
 - Se creó una rest API con Net core 6, asegurada con JWT
   URLapi: https://localhost:7030
 
@@ -30,7 +32,7 @@
   ConnectionString, DatabaseName y Collections creadas para el desarrollo de la prueba.
 
 
-Branch: feature-reactjs-project
+Folder: milescarrentalapp
 
 
 - Se creó una aplicación de Reactjs con vitejs para consumir la Api
