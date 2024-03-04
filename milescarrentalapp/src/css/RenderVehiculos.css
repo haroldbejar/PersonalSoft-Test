@@ -1,0 +1,37 @@
+.card {
+    width: 100%;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px rgba(128, 43, 43, 0.2);
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: black;
+  }
+  
+  .card-text {
+    font-size: 16px;
+    color: rgb(126, 168, 41);
+  }
+
+  .card img.card-img-top {
+    position: initial;
+    width: 100%;
+    height: auto;
+  }
